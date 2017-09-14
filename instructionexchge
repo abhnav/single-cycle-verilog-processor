@@ -1,0 +1,4 @@
+8000;ld from 0 in 0
+8101;ld from 1 in 1
+9001;store in 0 from 1
+9010;store in 1 from 0

@@ -1,0 +1,13 @@
+8003;store 5 in 0
+8104;store 2 in 1
+8205;store 1 for subtraction in 2
+8302;store 0 for beq in 3
+8402;store 0 for res in 4
+8506;store brach address in 5
+0440;add reg 0 with reg 4, store in 4
+1112;sub 1-2 store in 1
+d513;branch if equal
+c060;jump to 6 address to add more
+0000;
+
+

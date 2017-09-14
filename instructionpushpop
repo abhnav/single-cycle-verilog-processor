@@ -1,0 +1,6 @@
+8100;ld in 1 from 0
+6001;push 1
+e200;pop in 2
+8002;lw address in 0 from mem 2
+f300;lw in 3 from address stored in 0
+0000;

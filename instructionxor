@@ -1,0 +1,7 @@
+8000;ld in 0 from 0
+8101;ld in 1 from 1
+2201;nand 0 1 store in 2
+2302;nand 0 2 store in 3
+2412;nand 1 2 store in 4
+2534;nand 3 4 store in 5
+0000;

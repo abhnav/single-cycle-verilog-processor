@@ -1,0 +1,14 @@
+8000;ld from 0 in 0
+8101;ld from 1 in 1
+8202;ld from 2(value 0) in 2
+8308;ld 7fff in 3
+8a09;ld branch address in a
+1601;sub reg 1 from 0,store in 6
+4663;nor reg 6 with 3(7fff)
+da62:branch if not greater
+6000;push reg 0
+6001;push reg 1
+e000;pop in 0
+e100;pop in 1
+0000;
+
